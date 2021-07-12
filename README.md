@@ -4,7 +4,7 @@
 Роли ставяться из git - ansible-galaxy install -r requirements.yml -p roles/</br>
 Команда выполняется успешено - ansible-playbook site.yml -i inventory/prod.yml</br>
 Ссылка на elastic-role:</br>
-    https://github.com/murzinvit/elastic-role.git
+    https://github.com/murzinvit/elastic-role.git</br>
 Ссылка на kibana-role:</br>
-    https://github.com/murzinvit/kibana-role.git
+    https://github.com/murzinvit/kibana-role.git</br>
 
