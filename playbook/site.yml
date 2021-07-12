@@ -1,0 +1,12 @@
+---
+- name: Cool install java
+  hosts: all
+  become: true
+  roles:
+      - java
+- name: Cool install elastic
+  hosts: elasticsearch
+  become: true
+  roles:
+      - elastic
+      - kibana
