@@ -6,7 +6,7 @@
 На контейнерах centos и ubuntu выполняется успешено - `ansible-playbook site.yml -i inventory/prod.yml`</br>
 В контейнеры перед запуском ansible по `docker exec -it ubuntu /bin/bash` - надо поставить sudo и python, закомитить.</br>
 Ссылка на elastic-role:</br>
-    https://github.com/murzinvit/elastic-role.git </br>
+    [elastic-role](https://github.com/murzinvit/elastic-role.git) </br>
 Ссылка на kibana-role:</br>
-    (https://github.com/murzinvit/kibana-role.git </br>
+    [kibana-role](https://github.com/murzinvit/kibana-role.git) </br>
 
