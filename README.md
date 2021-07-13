@@ -1,4 +1,4 @@
-#### 08.03_work_with_-roles </br>
+#### 08.03_work_with_roles </br>
 ====================================</br>
 Загрузить контейнеры - `docker pull distr:latest` </br>
 Запуск контейнеров для изменения - `docker run -d --name container_name distr:latest sleep 10000000` </br> 
